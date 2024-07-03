@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 Looking for job in ML
+- 🌱 I’m currently learning NLP with transformers
+- 🤗 Check out my profile at Hugging Face: [ranzuh](https://huggingface.co/ranzuh)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eetu-rantala)
 <!--
 **ranzuh/ranzuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
