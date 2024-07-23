@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Looking for a job in AI/ML/DL.
+- 🔭 Looking for exciting opportunities in AI/ML/DL.
 - 🌱 I’m currently learning NLP with transformers. Check out [KalevalaGPT](https://github.com/ranzuh/KalevalaGPT)
 - 🤗 Check out my profile at Hugging Face: [ranzuh](https://huggingface.co/ranzuh)
 - 🤖 In my Master's thesis, I explored the application of Multi-Agent RL for mobile manipulation. [Code](https://github.com/TIERS/isaac-marl-mobile-manipulation) [Thesis](https://www.utupub.fi/handle/10024/175972)
